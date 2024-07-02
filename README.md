@@ -1,4 +1,4 @@
-# EZTSTraining
+# EZTS-Training
 python Revision Internship 
 This repository consists of diffferent tasks coded using python
 It includes the topics related to datasturcutures,desing and analysis of algorithm and so on.
